@@ -15,6 +15,8 @@ CUDA_VISIBLE_DEVICES=0 python train.py --train_label trainset_label.txt --val_la
 ```
 The trained model will be saved in ./exps/detectmodel/
 
+The pretrained weights can be downloaded from [Baidu Pan](https://pan.baidu.com/s/1DxcsK1yKrA2Tuvi7Zf28rg?pwd=sw9j )
+
 ## Evaluation on valset
 
 To evaluate on the valset run:
