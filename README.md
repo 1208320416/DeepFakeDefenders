@@ -1,5 +1,5 @@
 # DeepFakeDefenders
-This is code by fmsh_ck, the 6th team in [Inclusion・The Global Multimedia Deepfake Detection](https://www.kaggle.com/competitions/multi-ffdi/overview) Track 2.
+This is code by team fmsh_ck, ranked 6th in [Inclusion・The Global Multimedia Deepfake Detection](https://www.kaggle.com/competitions/multi-ffdi/overview) Track 2.
 
 ## Requirement
 
